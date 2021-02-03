@@ -8,3 +8,7 @@ The task was to clean up the multiple sections of repeated code. Add alt attribu
 *  HTML
 * CSS
 
+### Deployed Website
+https://cynthiamohan.github.io/Horiseon/
+
+
