@@ -1,5 +1,7 @@
 # Code Refactoring Challenge -Horiseon
- This is the landing page for Horiseon Social Solution Services, Inc.
+
+## Purpose
+This is the landing page for Horiseon Social Solution Services, Inc.
  
 ## Tasks
 The task was to clean up the multiple sections of repeated code. Add alt attributes for images.
@@ -13,3 +15,6 @@ https://cynthiamohan.github.io/Horiseon/
 
 ### Mock-up of the Web-page
 ![Mock-up](./assets/images/mock-up.png)
+
+## Contribution
+Made with ❤️️ by Horiseon
