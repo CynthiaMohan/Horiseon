@@ -12,4 +12,4 @@ The task was to clean up the multiple sections of repeated code. Add alt attribu
 https://cynthiamohan.github.io/Horiseon/
 
 ### Mock-up of the Web-page
-![Mock-up](/images/mock-up.png)
+![Mock-up](./images/mock-up.png)
